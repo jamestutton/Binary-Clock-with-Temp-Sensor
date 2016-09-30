@@ -6,7 +6,7 @@ This Project and Code Creates a very simple binary clock with added Temp Sensor 
  
 * Ardunio
 * PCA9685
-* AT24C32
+* DS3231 RTC
 * ProtoBoard
 * Header Pins
 * Push Buttons
