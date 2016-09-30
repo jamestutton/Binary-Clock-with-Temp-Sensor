@@ -1,6 +1,6 @@
 # Binary-Clock-with-Temp-Sensor
 
-This Project and Code Creates a very simple binary clock with add Temp Sensor.
+This Project and Code Creates a very simple binary clock with added Temp Sensor Mode.
 
 # Hardware
  
