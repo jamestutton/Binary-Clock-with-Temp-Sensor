@@ -24,3 +24,21 @@ LEDS are Driven via PWM from the PCA9685
 * Note: Current Design doesnt have an AM/PM or 24 hour feature.
 
 
+# Operating Modes Toggled via Mode Button
+
+1. SHOW_TIME
+2. SHOW_TEMP    (No timeout return in this mode)
+3. SHOW_DATE
+4. SHOW_YEAR
+5. SET_SEC
+6. SET_MIN
+7. SET_HOUR
+8. SET_DAY
+9. SET_MONTH
+10. SET_YEAR
+11. SET_BRIGHTNESS
+12. LED_TEST 12 (Long Hold to Exist this mode as only checks at end of each Test Loop)
+
+All modes baring Time and Temp Timout and Return to Time Mode
+Current Mode is indicated on Hour LEDs Blinking the Mode where appropriate.
+
